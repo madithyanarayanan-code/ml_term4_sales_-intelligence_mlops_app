@@ -6,6 +6,8 @@ An end-to-end Streamlit application that turns raw sales CSV files into customer
 
 Deploy this repository with Streamlit Community Cloud. The app is designed to run without private API keys. Llama/Ollama report polishing is optional; if Ollama is unavailable, the application generates a deterministic report instead.
 
+The website is currently deployed at https://sales-customer-intelligence.streamlit.app/. check it out for reference. 
+
 ## Pipeline
 
 The project follows the defined eight-stage sequence:
